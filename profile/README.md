@@ -9,6 +9,4 @@ znode builds **production-grade blockchain infrastructure**
 for teams running real-world, high-throughput workloads.
 
 We focus on **stability, predictable performance, and operational correctness**
-instead of shared cloud abstractions and best-effort guarantees.
-
-**reliability over hype** and **engineering over marketing**.
+instead of shared cloud abstractions and best-effort guarantees. **reliability over hype** and **engineering over marketing**.
